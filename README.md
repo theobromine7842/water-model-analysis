@@ -1,5 +1,5 @@
 # water-model-analysis
 Python analysis code to calculate the physical properties of water from molecular dynamics simulations including:
   * density
-  * heat of vaporization and
+  * heat of vaporization
   * diffusion coefficient
